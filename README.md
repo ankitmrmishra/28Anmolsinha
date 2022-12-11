@@ -61,7 +61,7 @@
 <a href="https://www.linkedin.com/in/anmol-sinha-342a61243/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anmol%20Sinha-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/r_a_u_s_h_a_n_s_h_a_h/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Anmol%20Sinha-blue?style=flat-square&logo=instagram"></a>
 <a href="https://mobile.twitter.com/AnmolSi73887248"><img alt="Twitter" src="https://img.shields.io/badge/twitter-AnmolSi73887248-blue?style=flat-square&logo=twitter"></a>
-<a href="mailmeatanmol@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mailmeatanmol@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailmeatanmol@gmail.com/"><img alt="Email" src="https://img.shields.io/badge/Email-mailmeatanmol@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
