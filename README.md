@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @28Anmolsinha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-28Anmolsinha/28Anmolsinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Anmolsinha
+- 👀 I’m interested in learning technical stuffs. 
+- 🌱 I’m currently learning Android Studio and DSA . 
+- 📫 contact me from twitter 
+https://mobile.twitter.com/AnmolSi73887248
+LinkedIn profile
+https://www.linkedin.com/mwlite/in/anmol-sinha-342a61243
