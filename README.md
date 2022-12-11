@@ -1,9 +1,9 @@
-<h2> Hey there! I'm Roushan Shah.</h2>
+<h2> Hey there! I'm Anmol Sinha.</h2>
 
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/{Roushanshah}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{28Anmolsinha}/count.svg)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -43,12 +43,12 @@
 <br/>
 <img src="https://img.shields.io/github/followers/ankitmrmishra?style=social"></img>
 
-[![Roushan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Roushanshah&theme=dracula)](https://github.com/Roushanshah/github-readme-activity-graph)
+[![Anmol's github activity graph](https://activity-graph.herokuapp.com/graph?username=28Anmolsinha&theme=dracula)](https://github.com/28Anmolsinha/github-readme-activity-graph)
 
-<a href="https://github.com/Roushanshah">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Roushanshah&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Roushanshah&theme=tokyonight" />
-	 <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roushanshah&theme=tokyonight&layout=compact" />
+<a href="https://github.com/28Anmolsinha">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=28Anmolsinha&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=28Anmolsinha&theme=tokyonight" />
+	 <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=28Anmolsinha&theme=tokyonight&layout=compact" />
 
 </a>
 
@@ -57,18 +57,18 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.github.com/in/Roushanshah/"><img alt="LinkedIn" src="https://img.shields.io/badge/github-Roushanshah-blue&logo=Github"></a>
-<a href="https://www.linkedin.com/in/roushan-kumar-946a60243/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Roushan%20Shah-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/r_a_u_s_h_a_n_s_h_a_h/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Raushan%20Shah-blue?style=flat-square&logo=instagram"></a>
-<a href="https://twitter.com/Roushanshah8"><img alt="Instagram" src="https://img.shields.io/badge/twitter-Roushanshah8-blue?style=flat-square&logo=twitter"></a>
-<a href="raushanpco@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-raushanpco@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.github.com/in/28Anmolsinha/"><img alt="LinkedIn" src="https://img.shields.io/badge/github-28Anmolsinha-blue&logo=Github"></a>
+<a href="https://www.linkedin.com/in/anmol-sinha-342a61243/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anmol%20Sinha-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/r_a_u_s_h_a_n_s_h_a_h/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Anmol%20Sinha-blue?style=flat-square&logo=instagram"></a>
+<a href="https://mobile.twitter.com/AnmolSi73887248"><img alt="Twitter" src="https://img.shields.io/badge/twitter-AnmolSi73887248-blue?style=flat-square&logo=twitter"></a>
+<a href="mailmeatanmol@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mailmeatanmol@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
 
-⭐ From [Roushan Shah](https://github.com/Roushanshah)
+⭐ From [Anmol Sinha](https://github.com/28Anmolsinha)
 
 <!---
-Roushanshah/Roushanshah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Anmolsinha/Anmolsinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
