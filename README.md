@@ -44,7 +44,7 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
  -->
 <br/>
-<img src="https://img.shields.io/github/followers/ankitmrmishra?style=social"></img>
+<img src="https://img.shields.io/github/followers/28Anmolsinha?style=social"></img>
 
 [![Anmol's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=28Anmolsinha&theme=dracula)](https://github.com/28Anmolsinha/github-readme-activity-graph)
 
