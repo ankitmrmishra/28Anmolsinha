@@ -46,7 +46,7 @@
 <br/>
 <img src="https://img.shields.io/github/followers/ankitmrmishra?style=social"></img>
 
-[![Anmol's github activity graph](https://activity-graph.herokuapp.com/graph?username=28Anmolsinha&theme=dracula)](https://github.com/28Anmolsinha/github-readme-activity-graph)
+[![Anmol's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=28Anmolsinha&theme=dracula)](https://github.com/28Anmolsinha/github-readme-activity-graph)
 
 <a href="https://github.com/28Anmolsinha">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=28Anmolsinha&show_icons=true&theme=tokyonight" />
